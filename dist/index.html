@@ -8,8 +8,39 @@
   <body class="bg-blue-50 m-0 p-0">
     <h1 class="text-center text-bold text-7xl text-blue-300">TEAM 293 AUTO SIM</h1>
     <div class="flex justify-between mx-20 mt-5">
-      <div class="w-1/2">
-        Left
+      <div class="w-1/2 inline-flex flex-col justify-center items-center">
+        <p class="text-red-600 font-bold">*location is based on top left of robot</p>
+        <table class="table-element w-full ">
+          <thead>
+            <tr class="table-element">
+              <th class="table-element w-1/2">X: </th>
+              <th class="table-element w-1/2">Y: </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="table-element">
+              <td id="trueX" class="table-element text-center"></td>
+              <td id="trueY" class="table-element text-center"></td>
+            </tr>
+            <tr class="table-element">
+              <td id="trueXFeet" class="table-element text-center"></td>
+              <td id="trueYFeet" class="table-element text-center"></td>
+            </tr>
+          </tbody>
+
+          <thead>
+            <tr class="table-element">
+              <th class="table-element">Rotation (bearing)</th>
+              <th class="table-element">Rotation (trig)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="table-element">
+              <td id="bearing" class="table-element text-center">0</td>
+              <td id="trig" class="table-element text-center">90</td>
+            </tr>
+          </tbody>
+        </table>
       </div>
       <div id="canvas" class="w-1/2 inline-flex justify-center items-center">
         
