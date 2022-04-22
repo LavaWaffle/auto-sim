@@ -1,6 +1,6 @@
 module.exports = {
-  purge: ["./dist/*.html"],
-  darkMode: false,
+  content: ["./dist/*.html"],
+  darkMode: "class",
   theme: { extend: {} },
   variants: { extend: {} },
   plugins: [],
