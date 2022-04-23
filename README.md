@@ -1,10 +1,10 @@
 # TEAM 293 AUTO SIMULATION
 
 ## Table of Contents
-1. [Running a Development Server]("#Running a Development Server")
-2. [Building for Production](#Building for Production)
+1. [Running a Development Server]("#running-a-development-server")
+2. [Building for Production]("#building-for-production")
 
-## Running a Development Server <a name="Running a Development Server"></a>
+## Running a Development Server
 1. Install the latest version of [Node.js]("https://nodejs.org/en/")
 - 1.5 This project only uses NPM from node js
 
@@ -33,7 +33,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
 
 6. To stop the development server press "ctrl + c"
 
-## Building for Production <a name="Building for Production"></a>
+## Building for Production
 1. Follow steps 1-3 from running a development server
 
 2. Build the code
