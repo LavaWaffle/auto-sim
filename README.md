@@ -1,8 +1,8 @@
 # TEAM 293 AUTO SIMULATION
 
 ## Table of Contents
-1. [Running a Development Server]("#running-a-development-server")
-2. [Building for Production]("#building-for-production")
+1. [Running a Development Server](#running-a-development-server)
+2. [Building for Production](#building-for-production)
 
 ## Running a Development Server
 1. Install the latest version of [Node.js]("https://nodejs.org/en/")
