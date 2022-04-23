@@ -34,7 +34,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
 6. To stop the development server press "ctrl + c"
 
 ## Building for Production
-1. Follow steps 1-3 from running a development server
+1. Follow steps 1-3 from [running a development server](#running-a-development-server)
 
 2. Build the code
 ``` bash
