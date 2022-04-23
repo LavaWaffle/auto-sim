@@ -5,14 +5,14 @@
 2. [Building for Production](#building-for-production)
 
 ## Running a Development Server
-1. Install the latest version of [Node.js]("https://nodejs.org/en/")
+1. Install the latest version of [Node.js](https://nodejs.org/en/)
 - 1.5 This project only uses NPM from node js
 
 2. Install yarn
 ``` bash
 npm install --global yarn
 ```
-- 2.5 Go [here]("https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable") to view alternative ways to install yarn
+- 2.5 Go [here](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable) to view alternative ways to install yarn
 
 3. Clone the repo
 ``` bash
@@ -29,7 +29,7 @@ yarn watch
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
 ```
 
-5. Go to [http://localhost:3000/]("http://localhost:3000/") to see the sim
+5. Go to [http://localhost:3000/](http://localhost:3000/) to see the sim
 
 6. To stop the development server press "ctrl + c"
 
